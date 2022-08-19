@@ -24,7 +24,7 @@ img {
 
   /* COLORS */
   /* All Options: 159, 36, 270, 345 */
-  --hue: 159;
+  --hue: 10;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
